@@ -5,3 +5,7 @@ notes.md
 vertices_test.csv
 graph_stat.csv
 data
+code/attack.py
+code/vertices.csv
+code/attack.ipynb
+
