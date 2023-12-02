@@ -8,4 +8,6 @@ data
 code/attack.py
 code/vertices.csv
 code/attack.ipynb
+code/complex_contagion_code.r
+code/test.ipynb
 viz
