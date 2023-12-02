@@ -1,13 +1,14 @@
 clones
-sn-article-template
+sn-article-template/
 temp.tex
 notes.md
 vertices_test.csv
 graph_stat.csv
-data
+data/
 code/attack.py
 code/vertices.csv
 code/attack.ipynb
 code/complex_contagion_code.r
 code/test.ipynb
-viz
+viz/
+assets/
