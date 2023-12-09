@@ -1,0 +1,16 @@
+network,0,1,2,3,4,5,6,7,8,9,10,11
+bn_macaque_rhesus_brain_2,MEC,MED,MEB,DC,BC,NBC,greedy,CC,PR,random,PLCi,DWT
+word_adjacencies,MED,MEC,MEB,DC,NBC,BC,CC,PR,greedy,PLCi,random,DWT
+circuits_s208,MED,MEB,MEC,DC,NBC,BC,PLCi,CC,PR,greedy,random,DWT
+bn_cat_mixed_species_brain_1,MEB,MED,NBC,BC,MEC,DC,CC,PR,PLCi,greedy,random,DWT
+facebook_414,BC,MEB,NBC,MED,MEC,DC,greedy,PR,CC,random,PLCi,DWT
+facebook_686,MEB,BC,NBC,MED,MEC,DC,CC,PR,greedy,random,PLCi,DWT
+polbooks,MED,DC,MEB,BC,NBC,MEC,CC,greedy,random,PLCi,PR,DWT
+jazz,MEB,BC,NBC,MED,MEC,DC,CC,PR,greedy,random,PLCi,DWT
+facebook_348,MEB,NBC,BC,MED,MEC,DC,CC,PR,greedy,random,PLCi,DWT
+circuits_s420,MED,MEB,MEC,DC,NBC,BC,PLCi,CC,PR,greedy,random,DWT
+corruption,MEB,BC,NBC,MED,MEC,DC,CC,PR,greedy,random,PLCi,DWT
+facebook_0,MEB,MED,BC,NBC,DC,MEC,greedy,PR,CC,PLCi,random,DWT
+circuits_s838,MED,MEB,MEC,NBC,DC,BC,PLCi,CC,PR,random,greedy,DWT
+crime_net,MED,MEC,DC,MEB,BC,NBC,greedy,CC,PR,PLCi,random,DWT
+facebook_1684,NBC,BC,MEB,MED,DC,MEC,CC,greedy,PR,random,PLCi,DWT

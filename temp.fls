@@ -1,6 +1,0 @@
-PWD c:/Users/Joelle/Documents/raysas/network/project
-INPUT c:/Users/Joelle/AppData/Roaming/TinyTeX/texmf.cnf
-INPUT c:/Users/Joelle/AppData/Roaming/TinyTeX/texmf-dist/web2c/texmf.cnf
-INPUT c:/Users/Joelle/AppData/Roaming/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Joelle/Documents/raysas/network/project/temp.tex
-OUTPUT temp.log
