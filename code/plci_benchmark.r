@@ -1,3 +1,6 @@
+# code from https://github.com/drguilbe/complexpaths
+# code file: calculate_complex_path_length_and_centrality_first_release.R
+# Guilbeault, D., & Centola, D. (2021). Topological measures for identifying and predicting the spread of complex contagions. Nature communications, 12(1), 4430.
 
 
 #Load Libraries
