@@ -160,6 +160,6 @@ for (f in my_dir_files){
 
   #take only the 1st,5th and 9th columns
   model_output_test <- model_output_full[c(1,5,10)]
-  csv_name <- paste("results/", graph_name, ".csv", sep = "")
+  csv_name <- paste("plci_results/", graph_name, ".csv", sep = "")
   write.csv(model_output_test, csv_name, row.names = FALSE)
 }
