@@ -1,5 +1,6 @@
-# net-sci-project
-final project for BIF498HH
+# Final Project for BIF498HH - Network Science <img src="assets/network.png" width="100">
+
+
 
 The following directories are included in this repository:
 
